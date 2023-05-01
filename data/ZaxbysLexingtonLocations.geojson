@@ -1,0 +1,8 @@
+var chicken = 
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"Name":"Zaxby's South Broadway","Type":"Zabxy's Chicken Fingers", "Address": "115 South Broadway", "Phone": 8595238543, "Website": "https://www.zaxbys.com/locations/ky/lexington/1115-s-broadway/"},"geometry":{"type":"Point","coordinates":[-84.51897, 38.036779]}},
+    {"type":"Feature","properties":{"Name":"Zaxby's Redding Road","Type":"Zabxy's Chicken Fingers", "Address": "435 Redding Road", "Phone": 8596879044, "Website": "https://www.zaxbys.com/locations/ky/lexington/435-redding-rd/"},"geometry":{"type":"Point","coordinates":[-84.495872, 37.983435]}},
+    {"type":"Feature","properties":{"Name":"Zaxby's Sand Lake","Type":"Zabxy's Chicken Fingers", "Address": "104 Sand Lake Drive", "Phone": 8593179929, "Website": "https://www.zaxbys.com/locations/ky/lexington/104-sand-lake-dr/"},"geometry":{"type":"Point","coordinates":[-84.444892, 37.99895]}},
+    {"type":"Feature","properties":{"Name":"Zaxby's West New Circle","Type":"Zabxy's Chicken Fingers", "Address": "531 West New Circle Road", "Phone": 8593680600, "Website": "https://www.zaxbys.com/locations/ky/lexington/531-w-new-circle-rd/"},"geometry":{"type":"Point","coordinates":[-84.481492, 38.072969]}},
+    {"type":"Feature","properties":{"Name":"Zaxby's Sharkey Way","Type":"Zabxy's Chicken Fingers", "Address": "1772 Sharkey Way", "Phone": 8592260011, "Website": "https://www.zaxbys.com/locations/ky/lexington/1772-sharkey-way/"},"geometry":{"type":"Point","coordinates":[-84.530801, 38.068864]}},
+    ]}
